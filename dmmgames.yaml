@@ -7,4 +7,4 @@ payload:
   - DOMAIN-SUFFIX,dmm-extension.com
   - DOMAIN-SUFFIX,dmmapis.com
   # kancolle
-  - IP-CIDR,203.104.209.7/32
+  - IP-CIDR,203.104.209.7/32,no-resolve
