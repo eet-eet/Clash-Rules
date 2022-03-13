@@ -2,8 +2,8 @@
 function FindProxyForURL(url, host) {
 
   var direct = 'DIRECT';
-  var proxy = 'PROXY http://127.0.0.1:7890';
-  var kccache = 'PROXY http://127.0.0.1:8081';
+  var proxy = 'PROXY 127.0.0.1:7890';
+  var kccache = 'PROXY 127.0.0.1:8081';
 
   if (isInNet(ip, '203.104.209.7', '255.555.255.255')
       ) {
