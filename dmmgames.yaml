@@ -2,9 +2,9 @@ payload:
   # dmm
   - DOMAIN-SUFFIX,dmm.com
   - DOMAIN-SUFFIX,dmm.co.jp
-  - DOMAIN-SUFFIX,dmmgames.com
   - DOMAIN-SUFFIX,dmm.hk
+  - DOMAIN-SUFFIX,dmmgames.com
   - DOMAIN-SUFFIX,dmm-extension.com
   - DOMAIN-SUFFIX,dmmapis.com
   # kancolle
-  - IP-CIDR,203.104.209.7/32,no-resolve
+  - IP-CIDR,203.104.209.7/32
