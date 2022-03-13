@@ -41,7 +41,7 @@ function FindProxyForURL(url, host) {
       || isInNet(ip, '203.104.209.55', '255.255.255.255')
       || isInNet(ip, '203.104.209.102', '255.255.255.255')
       ) {
-    return kccache;direct;proxy;
+    return kccache;
   }
-  return proxy;direct;
+  return proxy;
   }
