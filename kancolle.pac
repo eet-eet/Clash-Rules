@@ -43,4 +43,5 @@ function FindProxyForURL(url, host) {
       ) {
     return kccache;direct;proxy;
   }
+  return proxy;direct;
   }
